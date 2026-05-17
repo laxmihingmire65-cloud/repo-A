@@ -18,7 +18,8 @@ Types of Constructors:
 
 4-pillars in OOPs:
     1. Inheritance : mechanism where a new class (child class) inherits properties and behaviors from an existing class (parent class).
-    2. Polymorphism : ability of an object to take on many forms. It allows a single interface to be used for a general class of actions.
+    2. Polymorphism : ability of an object to take on many forms. It allows a single interface to be used for
+     a general class of actions.
     3. Encapsulation : bundling data and methods that operate on that data within a single unit (class) and restricting access to some of the object's components.
     4. Abstraction : process of hiding the implementation details and showing only the essential features of an object. It allows
 
